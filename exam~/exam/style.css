@@ -1,0 +1,137 @@
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+.asosiy{
+    width: 100%;
+    height: 600px;
+}
+.header{
+    width: 100%;
+    height: 40px;
+background-color: orange;
+    display: flex;
+    justify-content: center;
+}
+.nav {
+    width: 80%;
+    height: 40px;
+    display: flex;
+}
+.nav1{
+    display: flex;
+}
+.nav2{
+    display: flex;
+    width: 80%;
+    justify-content: end;
+    align-items: center;
+}
+.nav1 ul{
+    display: flex;
+    gap: 20px;
+}
+.nav1 ul li {
+    list-style: none;
+}
+.nav2 ul{
+    display: flex;
+}
+.nav2 ul li {
+    list-style: none;
+}
+.header2{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+.liv{
+    width: 80%;
+    height: 50px;
+    display: flex;
+}
+.liv1{
+    width: 20%;
+    height: 50px;
+}
+.liv1 img {
+    width: 100%;
+    height: 50px;
+}
+.liv2{
+    width: 80%;
+    height: 50px;
+}
+.liv2 ul {
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.liv2 ul li {
+    list-style: none;
+    font-size: 150%;
+}
+.liv3{
+    width: 20%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.liv3 button{
+    width: 100%;
+    height: 45px;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    background-color: rgb(112, 112, 155);
+}
+/* karusel start */
+/* footer start */
+.contin{
+    width: 100%;
+    height: 210px;
+    display: flex;
+    gap: 2%;
+    justify-content: center;
+    align-items: center;
+}
+.con1{
+    width: 23%;
+    height: 200px;
+    background-color: rgb(138, 180, 180);
+    border: solid;
+}
+.con1 img{
+    width: 100%;
+    height: 100%;
+}
+.con2{
+    width: 23%;
+    height: 200px;
+    background-color: rgb(138, 180, 180);
+    border: solid;
+}
+.con2 img{
+    width: 100%;
+    height: 100%;
+}
+.con3{
+    width: 23%;
+    height: 200px;
+    background-color: rgb(138, 180, 180);
+    border: solid;
+}
+.con3 img{
+    width: 100%;
+    height: 100%;
+}
+.imgw{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
